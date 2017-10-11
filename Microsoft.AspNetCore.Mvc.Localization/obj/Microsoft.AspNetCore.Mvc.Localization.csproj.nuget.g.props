@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\web\apps\WithSrc.Mvc\Microsoft.AspNetCore.Mvc.Localization\obj\project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\ikaruga\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.3.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(Language)' == 'C#' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Compile Include="$(NuGetPackageRoot)microsoft.extensions.propertyhelper.sources\2.0.0\contentFiles\cs\netstandard1.0\PropertyHelper.cs" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.propertyhelper.sources\2.0.0\contentFiles\cs\netstandard1.0\PropertyHelper.cs')">
+      <NuGetPackageId>Microsoft.Extensions.PropertyHelper.Sources</NuGetPackageId>
+      <NuGetPackageVersion>2.0.0</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Private>False</Private>
+      <Link>PropertyHelper.cs</Link>
+    </Compile>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.buildtools.apicheck\2.0.0-rtm-15400\build\Microsoft.AspNetCore.BuildTools.ApiCheck.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.buildtools.apicheck\2.0.0-rtm-15400\build\Microsoft.AspNetCore.BuildTools.ApiCheck.props')" />
+    <Import Project="$(NuGetPackageRoot)internal.aspnetcore.sdk\2.0.1-rtm-15400\build\Internal.AspNetCore.Sdk.props" Condition="Exists('$(NuGetPackageRoot)internal.aspnetcore.sdk\2.0.1-rtm-15400\build\Internal.AspNetCore.Sdk.props')" />
+  </ImportGroup>
+</Project>

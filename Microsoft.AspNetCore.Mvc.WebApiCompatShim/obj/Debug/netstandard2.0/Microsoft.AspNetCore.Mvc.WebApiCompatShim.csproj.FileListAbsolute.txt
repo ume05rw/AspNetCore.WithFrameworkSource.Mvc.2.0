@@ -1,0 +1,46 @@
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.deps.json
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.pdb
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.xml
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.pdb
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Formatters.Json.pdb
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.pdb
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.csprojResolveAssemblyReference.cache
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.Resources.resources
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.csproj.GenerateResource.Cache
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.csproj.CoreCompileInputs.cache
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Internal.AspNetCore.Sdk.AssemblyInfo.cs
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.AssemblyInfoInputs.cache
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.AssemblyInfo.cs
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.xml
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.pdb
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.deps.json
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.pdb
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.xml
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.pdb
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Formatters.Json.pdb
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.pdb
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.csprojResolveAssemblyReference.cache
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.Resources.resources
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.csproj.GenerateResource.Cache
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.csproj.CoreCompileInputs.cache
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Internal.AspNetCore.Sdk.AssemblyInfo.cs
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.AssemblyInfoInputs.cache
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.AssemblyInfo.cs
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.xml
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.WebApiCompatShim\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.pdb

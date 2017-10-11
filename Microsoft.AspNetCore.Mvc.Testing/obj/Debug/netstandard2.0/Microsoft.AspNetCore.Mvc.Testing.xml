@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.AspNetCore.Mvc.Testing</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.AspNetCore.Mvc.Testing.Internal.TestServiceRegistrations">
+            <summary>
+            Helper class to orchestrate service registrations in <see cref="T:Microsoft.AspNetCore.Mvc.Testing.Internal.TestStartup`1"/>.
+            </summary>
+        </member>
+        <member name="T:Microsoft.AspNetCore.Mvc.Testing.Internal.TestStartup`1">
+            <summary>
+            Fake startup class used in functional tests to decorate the registration of
+            ConfigureServices.
+            </summary>
+            <typeparam name="TStartup">The startup class of your application.</typeparam>
+        </member>
+        <member name="T:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1">
+            <summary>
+            Builder API for bootstraping an MVC application for functional tests.
+            </summary>
+            <typeparam name="TStartup">The application startup class.</typeparam>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1.ConfigureBeforeStartup(System.Action{Microsoft.Extensions.DependencyInjection.IServiceCollection})">
+            <summary>
+            Configures services before TStartup.ConfigureServices runs.
+            </summary>
+            <param name="configure">The <see cref="T:System.Action`1"/> to configure the services with.</param>
+            <returns>An instance of this <see cref="T:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1"/></returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1.ConfigureAfterStartup(System.Action{Microsoft.Extensions.DependencyInjection.IServiceCollection})">
+            <summary>
+            Configures services after TStartup.ConfigureServices runs.
+            </summary>
+            <param name="configure">The <see cref="T:System.Action`1"/> to configure the services with.</param>
+            <returns>An instance of this <see cref="T:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1"/></returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1.UseApplicationAssemblies">
+            <summary>
+            Configures <see cref="T:Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartManager"/> to include the default set
+            of <see cref="T:Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPart"/> provided by <see cref="T:Microsoft.AspNetCore.Mvc.Internal.DefaultAssemblyPartDiscoveryProvider"/>.
+            </summary>
+            <returns>An instance of this <see cref="T:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1"/></returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1.UseSolutionRelativeContentRoot(System.String,System.String)">
+            <summary>
+            Configures the application content root.
+            </summary>
+            <param name="solutionName">The glob pattern to use for finding the solution.</param>
+            <param name="solutionRelativePath">The relative path to the content root from the solution file.</param>
+            <returns>An instance of this <see cref="T:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1"/></returns>
+        </member>
+        <member name="T:Microsoft.AspNetCore.Mvc.Testing.WebApplicationTestFixture`1">
+            <summary>
+            Fixture for bootstrapping an application in memory for functional end to end tests.
+            </summary>
+            <typeparam name="TStartup">The applications startup class.</typeparam>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.WebApplicationTestFixture`1.#ctor">
+            <summary>
+            <para>
+            Creates a TestServer instance using the MVC application defined by<typeparamref name="TStartup"/>.
+            The startup code defined in <typeparamref name = "TStartup" /> will be executed to configure the application.
+            </para>
+            <para>
+            This constructor will infer the application root directive by searching for a solution file (*.sln) and then
+            appending the path<c> src/{AssemblyName}</c> to the solution directory.The application root directory will be
+            used to discover views and content files.
+            </para>
+            <para>
+            The application assemblies will be loaded from the dependency context of the assembly containing
+            <typeparamref name = "TStartup" />.This means that project dependencies of the assembly containing
+            <typeparamref name = "TStartup" /> will be loaded as application assemblies.
+            </para>
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.WebApplicationTestFixture`1.#ctor(System.String)">
+            <summary>
+            <para>
+            Creates a TestServer instance using the MVC application defined by<typeparamref name="TStartup"/>.
+            The startup code defined in <typeparamref name = "TStartup" /> will be executed to configure the application.
+            </para>
+            <para>
+            This constructor will infer the application root directive by searching for a solution file (*.sln) and then
+            appending the path <paramref name="solutionRelativePath"/> to the solution directory.The application root
+            directory will be used to discover views and content files.
+            </para>
+            <para>
+            The application assemblies will be loaded from the dependency context of the assembly containing
+            <typeparamref name = "TStartup" />.This means that project dependencies of the assembly containing
+            <typeparamref name = "TStartup" /> will be loaded as application assemblies.
+            </para>
+            </summary>
+            <param name="solutionRelativePath">The path to the project folder relative to the solution file of your
+            application. The folder of the first .sln file found traversing up the folder hierarchy from the test execution
+            folder is considered as the base path.</param>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.WebApplicationTestFixture`1.#ctor(System.String,System.String)">
+            <summary>
+            <para>
+            Creates a TestServer instance using the MVC application defined by<typeparamref name="TStartup"/>.
+            The startup code defined in <typeparamref name = "TStartup" /> will be executed to configure the application.
+            </para>
+            <para>
+            This constructor will infer the application root directive by searching for a solution file tht matches the pattern
+            <paramref name="solutionSearchPattern"/> and then appending the path <paramref name="solutionRelativePath"/>
+            to the solution directory.The application root directory will be used to discover views and content files.
+            </para>
+            <para>
+            The application assemblies will be loaded from the dependency context of the assembly containing
+            <typeparamref name = "TStartup" />.This means that project dependencies of the assembly containing
+            <typeparamref name = "TStartup" /> will be loaded as application assemblies.
+            </para>
+            </summary>
+            <param name="solutionSearchPattern">The glob pattern to use when searching for a solution file by
+            traversing up the folder hierarchy from the test execution folder.</param>
+            <param name="solutionRelativePath">The path to the project folder relative to the solution file of your
+            application. The folder of the first sln file that matches the <paramref name="solutionSearchPattern"/>
+            found traversing up the folder hierarchy from the test execution folder is considered as the base path.</param>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.WebApplicationTestFixture`1.CreateServer(Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder{`0})">
+            <summary>
+            Creates the <see cref="T:Microsoft.AspNetCore.TestHost.TestServer"/> with the bootstrapped application in <paramref name="builder"/>.
+            </summary>
+            <param name="builder">The <see cref="T:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1"/> used to
+            create the server.</param>
+            <returns>The <see cref="T:Microsoft.AspNetCore.TestHost.TestServer"/> with the bootstrapped application.</returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.WebApplicationTestFixture`1.ConfigureApplication(Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder{`0})">
+            <summary>
+            Gives a fixture an opportunity to configure the application before it gets built.
+            </summary>
+            <param name="builder">The <see cref="T:Microsoft.AspNetCore.Mvc.Testing.MvcWebApplicationBuilder`1"/> for the application.</param>
+        </member>
+        <member name="P:Microsoft.AspNetCore.Mvc.Testing.WebApplicationTestFixture`1.Client">
+            <summary>
+            Gets an instance of the <see cref="T:System.Net.Http.HttpClient"/> used to send <see cref="T:System.Net.Http.HttpRequestMessage"/> to the server.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.WebApplicationTestFixture`1.CreateClient">
+            <summary>
+            Creates a new instance of an <see cref="T:System.Net.Http.HttpClient"/> that can be used to
+            send <see cref="T:System.Net.Http.HttpRequestMessage"/> to the server.
+            </summary>
+            <returns>The <see cref="T:System.Net.Http.HttpClient"/></returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.WebApplicationTestFixture`1.CreateClient(System.Uri,System.Net.Http.DelegatingHandler[])">
+            <summary>
+            Creates a new instance of an <see cref="T:System.Net.Http.HttpClient"/> that can be used to
+            send <see cref="T:System.Net.Http.HttpRequestMessage"/> to the server.
+            </summary>
+            <param name="baseAddress">The base address of the <see cref="T:System.Net.Http.HttpClient"/> instance.</param>
+            <param name="handlers">A list of <see cref="T:System.Net.Http.DelegatingHandler"/> instances to setup on the
+            <see cref="T:System.Net.Http.HttpClient"/>.</param>
+            <returns>The <see cref="T:System.Net.Http.HttpClient"/>.</returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Mvc.Testing.WebApplicationTestFixture`1.Dispose">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

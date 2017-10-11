@@ -1,0 +1,27 @@
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.deps.json
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.pdb
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.csprojResolveAssemblyReference.cache
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.Resources.resources
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.csproj.GenerateResource.Cache
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Internal.AspNetCore.Sdk.AssemblyInfo.cs
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.AssemblyInfoInputs.cache
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.AssemblyInfo.cs
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ikaruga\Downloads\Mvc-rel-2.0.0\src\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.pdb
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.deps.json
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.pdb
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.Resources.resources
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.csproj.GenerateResource.Cache
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Internal.AspNetCore.Sdk.AssemblyInfo.cs
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.AssemblyInfoInputs.cache
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.AssemblyInfo.cs
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ikaruga\Documents\Visual Studio 2017\Projects\WithSource.Mvc\Microsoft.AspNetCore.Mvc.Abstractions\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.pdb
